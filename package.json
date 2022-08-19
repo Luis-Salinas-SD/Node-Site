@@ -1,0 +1,24 @@
+{
+  "name": "website",
+  "version": "1.0.0",
+  "description": "Website-Sistem",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Luis-Salinas-SD/Node-Site.git"
+  },
+  "keywords": [
+    "Node",
+    "Learn",
+    "JS"
+  ],
+  "author": "Luis-Salinas-SD",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Luis-Salinas-SD/Node-Site/issues"
+  },
+  "homepage": "https://github.com/Luis-Salinas-SD/Node-Site#readme"
+}
