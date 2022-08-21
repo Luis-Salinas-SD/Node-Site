@@ -1,27 +1,16 @@
 {
-  "name": "website",
-  "version": "1.0.0",
-  "description": "Website-Sistem",
-  "main": "index.js",
+  "name": "node",
+  "version": "0.0.0",
+  "private": true,
   "scripts": {
-    "test": "echo \"Error: no test specified\" && exit 1"
+    "start": "node ./bin/www"
   },
-  "repository": {
-    "type": "git",
-    "url": "git+https://github.com/Luis-Salinas-SD/Node-Site.git"
-  },
-  "keywords": [
-    "Node",
-    "Learn",
-    "JS"
-  ],
-  "author": "Luis-Salinas-SD",
-  "license": "ISC",
-  "bugs": {
-    "url": "https://github.com/Luis-Salinas-SD/Node-Site/issues"
-  },
-  "homepage": "https://github.com/Luis-Salinas-SD/Node-Site#readme",
   "dependencies": {
-    "express": "^4.18.1"
+    "cookie-parser": "~1.4.4",
+    "debug": "~2.6.9",
+    "ejs": "~2.6.1",
+    "express": "~4.16.1",
+    "http-errors": "~1.6.3",
+    "morgan": "~1.9.1"
   }
 }

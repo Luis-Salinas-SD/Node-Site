@@ -33,3 +33,15 @@ Tambien vamos a instalr un genarador de plantillas con el sieguiente comando:
 ```bash
 npm install express-generator -g
 ```
+
+Para crear nuestras vistas ingresamos el sieguiente comando
+
+```bash
+express --view=ejs
+```
+
+Instalar dependencias:
+
+```bash
+npm install
+```
