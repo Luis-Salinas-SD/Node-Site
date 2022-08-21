@@ -21,3 +21,15 @@ npm init
 ```
 
 ### Instalación de Express
+
+Aqui instalamos express con el siguiente comando:
+
+```bash
+npm install express
+```
+
+Tambien vamos a instalr un genarador de plantillas con el sieguiente comando:
+
+```bash
+npm install express-generator -g
+```
